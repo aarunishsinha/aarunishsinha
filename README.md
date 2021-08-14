@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="OCaml" width="26px" src="https://raw.githubusercontent.com/github/explore/f5a57d438b9deec8a209ade5fea3977349ffa2db/topics/ocaml/ocaml.png" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarunishsinha)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tools:
 
 ---
