@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages:
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
 <code><img height="20" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" ></code>
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Tools:
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/4485d17c3a177657700243cda0c3c8e78423102f11fbacbd9bb40d20cb1f0f27/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667"></code>
