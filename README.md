@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Solidity" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcoinmonks%2Fintroduction-to-solidity-programming-and-smart-contracts-for-complete-beginners-eb46472058cf&psig=AOvVaw1uHg-HDpr-Xe03NR5EroFt&ust=1629017680251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjQ1vWRsPICFQAAAAAdAAAAABAD" />
+<img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
