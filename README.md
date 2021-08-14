@@ -34,9 +34,13 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="OCaml" width="26px" src="https://raw.githubusercontent.com/github/explore/f5a57d438b9deec8a209ade5fea3977349ffa2db/topics/ocaml/ocaml.png" />
 
-<summary>:zap: GitHub Stats</summary>
+### Tools:
 
-  <img align="left" alt="aarunishsinha's GitHub Stats" src="https://github-readme-stats.aarunishsinha.vercel.app/api?username=aarunishsinha&show_icons=true&hide_border=true" />
+---
+
+
+![Aarunish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarunishsinha&count_private=true&show_icons=true&theme=radical)
+
 
 
 [linkedin]: https://www.linkedin.com/in/aarunish-sinha-360ab1193/
