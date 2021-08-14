@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
+![](https://aarunishsinha-visitor-badge.glitch.me/badge?page_id=aarunishsinha.aarunishsinha)
 
 ![Aarunish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarunishsinha&count_private=true&show_icons=true&theme=react)
 
