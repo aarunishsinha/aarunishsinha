@@ -34,10 +34,19 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="OCaml" width="26px" src="https://raw.githubusercontent.com/github/explore/f5a57d438b9deec8a209ade5fea3977349ffa2db/topics/ocaml/ocaml.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarunishsinha)](https://github.com/aarunishsinha/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarunishsinha&layout=compact)](https://github.com/aarunishsinha/github-readme-stats) -->
 
 ### Tools:
-
+<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">
+<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png">
+<img align="left" alt="Truffle" width="26px" src="https://camo.githubusercontent.com/4485d17c3a177657700243cda0c3c8e78423102f11fbacbd9bb40d20cb1f0f27/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667">
+<img align="left" alt="Ganache" width="26px" src="https://github.com/trufflesuite/ganache/raw/develop/static/icons/png/128x128.png?raw=true">
+<img align="left" alt="Go-Eth" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
+<img align="left" alt="postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img align="left" alt="Flask" width="26px" src="">
 ---
 
 
