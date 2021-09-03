@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/4485d17c3a177657700243cda0c3c8e78423102f11fbacbd9bb40d20cb1f0f27/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667"></code>
 <code><img height="20" src="https://github.com/aarunishsinha/aarunishsinha/blob/main/assets/eclipse.webp"></code>
-<code><img height="20" src="https://github.com/trufflesuite/ganache/raw/develop/static/icons/png/128x128.png?raw=true"></code>
+<code><img height="20" src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
