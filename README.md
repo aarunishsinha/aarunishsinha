@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aarunishsinha)
 
-![Aarunish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarunishsinha&count_private=true&show_icons=true&theme=react)
+<!-- ![Aarunish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarunishsinha&count_private=true&show_icons=true&theme=react) -->
 
 
 
